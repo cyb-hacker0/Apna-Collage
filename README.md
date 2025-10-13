@@ -7,7 +7,7 @@
     <a href="https://github.com/cyb-hacker0/Termux-Pro-Command./stargazers"><img src="https://img.shields.io/github/stars/BlackTechX011/Termux-Command-Handbook?style=for-the-badge&color=gold" alt="stars"></a>
     <a href="https://github.com/cyb-hacker0/Termux-Pro-Command./network/members"><img src="https://img.shields.io/github/forks/BlackTechX011/Termux-Command-Handbook?style=for-the-badge&color=blue" alt="forks"></a>
     <a href="https://github.com/cyb-hacker0/Termux-Pro-Command./issues"><img src="https://img.shields.io/github/issues/BlackTechX011/Termux-Command-Handbook?style=for-the-badge&color=orange" alt="issues"></a>
-    <a href="https://github.com/cyb-hacker0/Termux-Pro-Command./blob/main/LICENSE"><img src="https://img.shields.io/github/license/BlackTechX011/Termux-Command-Handbook?style=for-the-badge&color=green" alt="license"></a>
+    <a href="https://github.com/cyb-hacker0/Termux-Pro-Command./blob/main/LICENSE"><img src="" alt="license"></a>
   </p>
 
   <h4>
