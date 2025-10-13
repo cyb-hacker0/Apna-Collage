@@ -1,4 +1,4 @@
- # Chapter 01: The Termux Foundation
+# Chapter 01: The Termux Foundation
 
 > This chapter covers the absolute essentials for managing the Termux environment itself, installing tools, and performing basic file system navigation. Mastering these commands is the first and most critical step.
 
